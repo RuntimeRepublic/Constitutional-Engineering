@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="980" viewBox="0 0 720 980" role="img" aria-labelledby="t1 d1">
+  <title id="t1">WP-DIAG-001  Bill A Engineering Idea</title>
+  <desc id="d1">Controlled flow from person with economic resources through claim, pooling, NBBF accountability, and continue/correct/terminate. Conceptual Human Intent only; not current Kansas law; mechanisms not fully engineered.</desc>
+  <rect width="720" height="980" fill="#f7f5f0"/>
+  <text x="360" y="36" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#1a2332">WP-DIAG-001  Bill A Engineering Idea</text>
+  <text x="360" y="58" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#5a6575">Conceptual Human Intent · Not current Kansas law · Mechanisms not fully engineered</text>
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#1a2332"/></marker>
+  </defs>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">
+    <rect x="160" y="80" width="400" height="44" rx="4" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <text x="360" y="107" text-anchor="middle">Person with economic resources</text>
+    <line x1="360" y1="124" x2="360" y2="148" stroke="#1a2332" stroke-width="1.5" marker-end="url(#arr)"/>
+    <rect x="160" y="150" width="400" height="44" rx="4" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <text x="360" y="177" text-anchor="middle">Property right</text>
+    <line x1="360" y1="194" x2="360" y2="218" stroke="#1a2332" stroke-width="1.5" marker-end="url(#arr)"/>
+    <rect x="160" y="220" width="400" height="44" rx="4" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <text x="360" y="247" text-anchor="middle">Clear government signal</text>
+    <line x1="360" y1="264" x2="360" y2="288" stroke="#1a2332" stroke-width="1.5" marker-end="url(#arr)"/>
+    <rect x="160" y="290" width="400" height="44" rx="4" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <text x="360" y="317" text-anchor="middle">Authorized taxable event</text>
+    <line x1="360" y1="334" x2="360" y2="358" stroke="#1a2332" stroke-width="1.5" marker-end="url(#arr)"/>
+    <rect x="160" y="360" width="400" height="44" rx="4" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <text x="360" y="387" text-anchor="middle">Bounded government claim</text>
+    <line x1="360" y1="404" x2="360" y2="428" stroke="#1a2332" stroke-width="1.5" marker-end="url(#arr)"/>
+    <rect x="160" y="430" width="400" height="44" rx="4" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <text x="360" y="457" text-anchor="middle">Collection / transmission</text>
+    <line x1="360" y1="474" x2="360" y2="498" stroke="#1a2332" stroke-width="1.5" marker-end="url(#arr)"/>
+    <rect x="160" y="500" width="400" height="44" rx="4" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <text x="360" y="527" text-anchor="middle">Government pooling</text>
+    <line x1="360" y1="544" x2="360" y2="568" stroke="#1a2332" stroke-width="1.5" marker-end="url(#arr)"/>
+    <rect x="160" y="570" width="400" height="44" rx="4" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <text x="360" y="597" text-anchor="middle">Authorized spending</text>
+    <line x1="360" y1="614" x2="360" y2="638" stroke="#1a2332" stroke-width="1.5" marker-end="url(#arr)"/>
+    <rect x="160" y="640" width="400" height="44" rx="4" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <text x="360" y="667" text-anchor="middle">NBBF node</text>
+    <line x1="360" y1="684" x2="360" y2="708" stroke="#1a2332" stroke-width="1.5" marker-end="url(#arr)"/>
+    <rect x="160" y="710" width="400" height="44" rx="4" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <text x="360" y="737" text-anchor="middle">Accountability</text>
+    <line x1="360" y1="754" x2="360" y2="778" stroke="#1a2332" stroke-width="1.5" marker-end="url(#arr)"/>
+    <rect x="90" y="780" width="170" height="52" rx="4" fill="#eef3ea" stroke="#2f4a2f" stroke-width="1.5"/>
+    <text x="175" y="811" text-anchor="middle" font-size="12">Continue</text>
+    <rect x="275" y="780" width="170" height="52" rx="4" fill="#f4efe6" stroke="#6a5530" stroke-width="1.5"/>
+    <text x="360" y="811" text-anchor="middle" font-size="12">Correct</text>
+    <rect x="460" y="780" width="170" height="52" rx="4" fill="#f3eaea" stroke="#6a3030" stroke-width="1.5"/>
+    <text x="545" y="811" text-anchor="middle" font-size="12">Terminate</text>
+  </g>
+  <text x="360" y="870" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#5a6575">Source: LOU-004 §2.0.1, §2.0.7, §2.0.8 · Status: CONCEPTUAL EXPLANATION</text>
+  <text x="360" y="890" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#5a6575">Does not imply every operational mechanism is already legally engineered.</text>
+  <text x="360" y="940" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#7a8494">BlueprintLiberty.com · https://github.com/jhodges07/Constitutional-Engineering</text>
+</svg>

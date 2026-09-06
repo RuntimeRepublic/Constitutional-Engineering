@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640" role="img" aria-labelledby="t10 d10">
+  <title id="t10">WP-DIAG-010 - Durable invariants and PDCA</title>
+  <desc id="d10">Durable invariants and AGCL guardrails enclose Plan-Do-Check-Act. Evidence returns into the loop. Lawful change authority sits below the loop. PDCA is not taxing authority.</desc>
+  <rect width="900" height="640" fill="#f7f5f0"/>
+  <text x="450" y="32" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#1a2332">WP-DIAG-010 - Durable rails and continuous improvement</text>
+  <text x="450" y="54" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#5a6575">Human Intent explanation - Not statutory text - PDCA is not taxing authority</text>
+  <rect x="40" y="80" width="820" height="360" rx="8" fill="#ffffff" stroke="#1a2332" stroke-width="2"/>
+  <text x="450" y="110" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1a2332">DURABLE INVARIANTS / AGCL GUARDRAILS</text>
+  <text x="450" y="132" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#5a6575">Property tax to zero - Existence is not the event - Final consumption - Zero Terminal - Closed demand - Human gates</text>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#1a2332">
+    <rect x="70" y="160" width="150" height="70" rx="6" fill="#2a3a55"/>
+    <text x="145" y="202" text-anchor="middle" fill="#f7f5f0" font-size="16">PLAN</text>
+    <rect x="270" y="160" width="150" height="70" rx="6" fill="#2a3a55"/>
+    <text x="345" y="202" text-anchor="middle" fill="#f7f5f0" font-size="16">DO</text>
+    <rect x="470" y="160" width="150" height="70" rx="6" fill="#2a3a55"/>
+    <text x="545" y="202" text-anchor="middle" fill="#f7f5f0" font-size="16">CHECK</text>
+    <rect x="670" y="160" width="150" height="70" rx="6" fill="#2a3a55"/>
+    <text x="745" y="202" text-anchor="middle" fill="#f7f5f0" font-size="16">ACT</text>
+    <text x="220" y="205" font-size="18">-</text>
+    <text x="420" y="205" font-size="18">-</text>
+    <text x="620" y="205" font-size="18">-</text>
+    <rect x="270" y="270" width="360" height="70" rx="6" fill="#f4efe6" stroke="#6a5530" stroke-width="1.5"/>
+    <text x="450" y="300" text-anchor="middle" font-size="14" font-weight="bold">EVIDENCE</text>
+    <text x="450" y="322" text-anchor="middle" font-size="12">Measure. Compare. Do not hide conflict. Evidence is not authority.</text>
+    <text x="450" y="380" text-anchor="middle" font-size="12">THEN REPEAT inside the same rails</text>
+  </g>
+  <defs><marker id="a10" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#1a2332"/></marker></defs>
+  <line x1="450" y1="440" x2="450" y2="475" stroke="#1a2332" stroke-width="2" marker-end="url(#a10)"/>
+  <rect x="220" y="480" width="460" height="50" rx="6" fill="#3a4f3a"/>
+  <text x="450" y="511" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#f7f5f0" font-size="15">LAWFUL CHANGE AUTHORITY (separate from PDCA)</text>
+  <line x1="450" y1="530" x2="450" y2="555" stroke="#1a2332" stroke-width="2" marker-end="url(#a10)"/>
+  <text x="450" y="578" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1a2332">IMPROVED OPERATING STATE</text>
+  <text x="450" y="610" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#5a6575">Source: LOU-004 Draft 1.12 sec. 2.0.13-2.0.16 - Bill A establishes the improvement machine; it does not claim to be the final output.</text>
+</svg>

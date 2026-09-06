@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="t4 d4">
+  <title id="t4">WP-DIAG-004 - TRR / ARR</title>
+  <desc id="d4">Current State to TRR transition layer to ARR. TRR does not equal ARR. ARR is not a permanent entitlement. Neither has been calculated.</desc>
+  <rect width="900" height="560" fill="#f7f5f0"/>
+  <text x="450" y="32" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#1a2332">WP-DIAG-004 - TRR and ARR</text>
+  <text x="450" y="54" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#5a6575">Layered transition architecture - Neither calculated - ARR not a permanent entitlement</text>
+  <defs><marker id="a4" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#1a2332"/></marker></defs>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#1a2332">
+    <rect x="30" y="90" width="240" height="260" rx="6" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <rect x="30" y="90" width="240" height="40" fill="#1a2332"/>
+    <text x="150" y="116" text-anchor="middle" fill="#f7f5f0" font-size="13">LAYER 1</text>
+    <text x="150" y="160" text-anchor="middle" font-size="14" font-weight="bold">CURRENT STATE</text>
+    <text x="50" y="200" font-size="12">Historical revenue</text>
+    <text x="50" y="222" font-size="12">Historical spending</text>
+    <text x="50" y="244" font-size="12">Budgets / programs</text>
+    <text x="50" y="280" font-size="12">not automatic TRR</text>
+    <text x="50" y="302" font-size="12">not automatic ARR</text>
+
+    <line x1="280" y1="220" x2="314" y2="220" stroke="#1a2332" stroke-width="2" marker-end="url(#a4)"/>
+
+    <rect x="320" y="90" width="260" height="260" rx="6" fill="#ffffff" stroke="#3a4f3a" stroke-width="1.5"/>
+    <rect x="320" y="90" width="260" height="40" fill="#3a4f3a"/>
+    <text x="450" y="116" text-anchor="middle" fill="#f7f5f0" font-size="13">LAYER 2 - TRR</text>
+    <text x="450" y="160" text-anchor="middle" font-size="13" font-weight="bold">Transitional Revenue</text>
+    <text x="450" y="180" text-anchor="middle" font-size="13" font-weight="bold">Requirement</text>
+    <text x="340" y="220" font-size="12">Presently enforceable</text>
+    <text x="340" y="240" font-size="12">legal obligations</text>
+    <text x="340" y="270" font-size="12">Enforceable-Instrument</text>
+    <text x="340" y="290" font-size="12">Class (classes later)</text>
+    <text x="340" y="320" font-size="12">Temporary transition</text>
+
+    <line x1="590" y1="220" x2="624" y2="220" stroke="#1a2332" stroke-width="2" marker-end="url(#a4)"/>
+
+    <rect x="630" y="90" width="240" height="260" rx="6" fill="#ffffff" stroke="#2a3a55" stroke-width="1.5"/>
+    <rect x="630" y="90" width="240" height="40" fill="#2a3a55"/>
+    <text x="750" y="116" text-anchor="middle" fill="#f7f5f0" font-size="13">LAYER 3 - ARR</text>
+    <text x="750" y="160" text-anchor="middle" font-size="13" font-weight="bold">Authorized Revenue</text>
+    <text x="750" y="180" text-anchor="middle" font-size="13" font-weight="bold">Requirement</text>
+    <text x="650" y="220" font-size="12">Mature operating layer</text>
+    <text x="650" y="250" font-size="12">What government is</text>
+    <text x="650" y="270" font-size="12">authorized to fund</text>
+    <text x="650" y="300" font-size="12">Not historical revenue</text>
+    <text x="650" y="320" font-size="12">preservation</text>
+  </g>
+  <rect x="80" y="370" width="740" height="90" rx="4" fill="#f4efe6" stroke="#6a5530" stroke-width="1.5"/>
+  <text x="450" y="402" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1a2332" font-weight="bold">TRR is not ARR</text>
+  <text x="450" y="428" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#6a5530">NEITHER HAS YET BEEN CALCULATED</text>
+  <text x="450" y="448" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#6a5530">ARR is not a permanent spending or revenue entitlement. Recurring examination continues.</text>
+  <text x="450" y="520" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#5a6575">Source: LOU-004 Draft 1.12 sec. 2.0.7 / 2.0.13 - Status: CONCEPTUAL EXPLANATION</text>
+</svg>

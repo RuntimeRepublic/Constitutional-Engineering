@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-labelledby="t2 d2">
+  <title id="t2">WP-DIAG-002 - Current / Transition / Future</title>
+  <desc id="d2">Three-stage conceptual diagram. Future State is a continuously improving operating condition within durable guardrails, not a frozen tax design. Financial sufficiency not yet proven.</desc>
+  <rect width="900" height="700" fill="#f7f5f0"/>
+  <text x="450" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#1a2332">WP-DIAG-002 - Current - Transition - Future</text>
+  <text x="450" y="56" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#5a6575">Conceptual stages - Not a calendar schedule - Not current Kansas law - Q-BILL-A-016 = C</text>
+  <defs><marker id="a2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#1a2332"/></marker></defs>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#1a2332">
+    <rect x="30" y="80" width="250" height="360" rx="6" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <rect x="30" y="80" width="250" height="40" rx="6" fill="#1a2332"/>
+    <text x="155" y="106" text-anchor="middle" fill="#f7f5f0" font-size="14">CURRENT STATE</text>
+    <text x="50" y="150" font-size="12">- Multiple legacy tax systems</text>
+    <text x="50" y="175" font-size="12">- Property taxation</text>
+    <text x="50" y="200" font-size="12">- Historical spending /</text>
+    <text x="62" y="218" font-size="12">revenue architecture</text>
+    <text x="50" y="250" font-size="12">- Current revenue is not</text>
+    <text x="62" y="268" font-size="12">required replacement</text>
+    <text x="50" y="298" font-size="12">- Current spending is not</text>
+    <text x="62" y="316" font-size="12">automatic future</text>
+    <text x="62" y="334" font-size="12">authorization</text>
+
+    <line x1="290" y1="260" x2="324" y2="260" stroke="#1a2332" stroke-width="2" marker-end="url(#a2)"/>
+
+    <rect x="330" y="80" width="250" height="360" rx="6" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <rect x="330" y="80" width="250" height="40" rx="6" fill="#3a4f3a"/>
+    <text x="455" y="106" text-anchor="middle" fill="#f7f5f0" font-size="14">TRANSITION</text>
+    <text x="350" y="150" font-size="12">- Property-tax elimination</text>
+    <text x="350" y="175" font-size="12">- 5/7-year max runway</text>
+    <text x="362" y="193" font-size="12">(transition controls;</text>
+    <text x="362" y="211" font-size="12">numbers unchanged)</text>
+    <text x="350" y="241" font-size="12">- ALL-IN primary candidate;</text>
+    <text x="362" y="259" font-size="12">ALL-OUT on explicit hold</text>
+    <text x="350" y="289" font-size="12">- TRR (transitional layer)</text>
+    <text x="350" y="314" font-size="12">- New spending under NBBF</text>
+    <text x="350" y="339" font-size="12">- Lottery proving ground</text>
+    <text x="362" y="357" font-size="12">(not certified)</text>
+    <text x="350" y="387" font-size="12">- Senior / disabled priority</text>
+    <text x="362" y="405" font-size="12">(eligibility unresolved)</text>
+
+    <line x1="590" y1="260" x2="624" y2="260" stroke="#1a2332" stroke-width="2" marker-end="url(#a2)"/>
+
+    <rect x="630" y="80" width="250" height="360" rx="6" fill="#ffffff" stroke="#1a2332" stroke-width="1.5"/>
+    <rect x="630" y="80" width="250" height="40" rx="6" fill="#2a3a55"/>
+    <text x="755" y="106" text-anchor="middle" fill="#f7f5f0" font-size="14">FUTURE STATE</text>
+    <text x="650" y="150" font-size="12">- Property tax = zero</text>
+    <text x="662" y="168" font-size="12">(durable rail)</text>
+    <text x="650" y="198" font-size="12">- ARR authorized revenue</text>
+    <text x="662" y="216" font-size="12">(not calculated; not a</text>
+    <text x="662" y="234" font-size="12">permanent entitlement)</text>
+    <text x="650" y="264" font-size="12">- Bounded taxable event</text>
+    <text x="650" y="289" font-size="12">- NBBF accountability</text>
+    <text x="650" y="314" font-size="12">- Claims to Zero Terminal</text>
+    <text x="650" y="339" font-size="12">- Then PDCA continues</text>
+    <text x="650" y="364" font-size="12">- Not a frozen tax design</text>
+    <rect x="648" y="390" width="214" height="38" rx="4" fill="#f4efe6" stroke="#6a5530" stroke-width="1"/>
+    <text x="755" y="414" text-anchor="middle" font-size="11" fill="#6a5530">SUFFICIENCY NOT YET PROVEN</text>
+  </g>
+  <rect x="80" y="460" width="740" height="120" rx="6" fill="#ffffff" stroke="#2a3a55" stroke-width="1.5"/>
+  <text x="450" y="488" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">FUTURE STATE = continuously improving operating condition</text>
+  <text x="450" y="510" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">within durable constitutional / normative guardrails</text>
+  <text x="450" y="540" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#2a3a55">Current - Transition - Initial operating state - PDCA - Improved operating state</text>
+  <text x="450" y="562" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5a6575">PDCA is not taxing authority. Durable rails remain.</text>
+  <text x="450" y="620" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#5a6575">Source: LOU-004 Draft 1.12 sec. 2.0.13 - Status: CONCEPTUAL EXPLANATION - REQUIRES FURTHER ENGINEERING</text>
+  <text x="450" y="660" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#7a8494">BlueprintLiberty.com - https://github.com/jhodges07/Constitutional-Engineering</text>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="580" viewBox="0 0 900 580" role="img" aria-labelledby="t7 d7">
+  <title id="t7">WP-DIAG-007  Sinking-Fund Future-State Concept</title>
+  <desc id="d7">Two distinct tracks: personal sinking funds and governmental sinking funds. Future-state design objective; financial sufficiency not yet proven. Does not imply taxpayer funds become government property.</desc>
+  <rect width="900" height="580" fill="#f7f5f0"/>
+  <text x="450" y="32" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#1a2332">WP-DIAG-007  Sinking-Fund Future-State Concept</text>
+  <text x="450" y="54" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#5a6575">Two distinct tracks ù Design objective only ù Sufficiency not proven</text>
+  <defs><marker id="a7" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#1a2332"/></marker></defs>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#1a2332">
+    <rect x="40" y="85" width="390" height="300" rx="6" fill="#ffffff" stroke="#3a4f3a" stroke-width="1.5"/>
+    <rect x="40" y="85" width="390" height="42" fill="#3a4f3a"/>
+    <text x="235" y="112" text-anchor="middle" fill="#f7f5f0" font-size="14">PERSONAL SINKING FUNDS</text>
+    <text x="235" y="160" text-anchor="middle" font-size="12">Authorized capital accumulation</text>
+    <line x1="235" y1="175" x2="235" y2="200" stroke="#1a2332" stroke-width="1.5" marker-end="url(#a7)"/>
+    <text x="235" y="225" text-anchor="middle" font-size="12">Authorized earnings / reserves</text>
+    <line x1="235" y1="240" x2="235" y2="265" stroke="#1a2332" stroke-width="1.5" marker-end="url(#a7)"/>
+    <text x="235" y="290" text-anchor="middle" font-size="12">Reduced reliance on</text>
+    <text x="235" y="310" text-anchor="middle" font-size="12">compulsory claims</text>
+    <text x="235" y="350" text-anchor="middle" font-size="11" fill="#5a6575">` governmental sinking funds</text>
+
+    <rect x="470" y="85" width="390" height="300" rx="6" fill="#ffffff" stroke="#2a3a55" stroke-width="1.5"/>
+    <rect x="470" y="85" width="390" height="42" fill="#2a3a55"/>
+    <text x="665" y="112" text-anchor="middle" fill="#f7f5f0" font-size="14">GOVERNMENTAL SINKING FUNDS</text>
+    <text x="665" y="160" text-anchor="middle" font-size="12">Authorized capital accumulation</text>
+    <line x1="665" y1="175" x2="665" y2="200" stroke="#1a2332" stroke-width="1.5" marker-end="url(#a7)"/>
+    <text x="665" y="225" text-anchor="middle" font-size="12">Authorized earnings / reserves</text>
+    <line x1="665" y1="240" x2="665" y2="265" stroke="#1a2332" stroke-width="1.5" marker-end="url(#a7)"/>
+    <text x="665" y="290" text-anchor="middle" font-size="12">Support authorized functions as</text>
+    <text x="665" y="310" text-anchor="middle" font-size="12">compulsory claims degrade</text>
+    <text x="665" y="350" text-anchor="middle" font-size="11" fill="#5a6575">Shall not silently convert taxpayer</text>
+    <text x="665" y="368" text-anchor="middle" font-size="11" fill="#5a6575">property into permanent government ownership</text>
+
+    <rect x="150" y="420" width="600" height="70" rx="4" fill="#f4efe6" stroke="#6a5530" stroke-width="1.5"/>
+    <text x="450" y="450" text-anchor="middle" font-size="14" font-weight="bold">FUTURE-STATE DESIGN OBJECTIVE</text>
+    <text x="450" y="472" text-anchor="middle" font-size="13" fill="#6a5530">FINANCIAL SUFFICIENCY NOT YET PROVEN</text>
+  </g>
+  <text x="450" y="530" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#5a6575">Source: LOU-004 Draft 1.12 sec. 2.0.9 - Future State is continuously improving; this remains an unproven objective, not a frozen design.</text>
+</svg>
