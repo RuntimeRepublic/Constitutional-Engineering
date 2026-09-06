@@ -1,0 +1,2 @@
+# Binary artifacts — prevent core.autocrlf from altering accepted PDF bytes.
+*.pdf binary

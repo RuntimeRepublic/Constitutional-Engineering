@@ -1,0 +1,147 @@
+{
+  "cwc": "CWC-CE-177",
+  "renderer_identity": "PR-PDF-RENDER-002",
+  "historical_renderer_identity": "PR-PDF-RENDER-001 / CWC-CE-161",
+  "canonical_git_sha": "e3151e5ac3f8cdb6fc25ac6b36bf418072f723fb",
+  "render_timestamp_utc": "2026-09-06T02:34:29Z",
+  "toolchain": "Python ReportLab + PyMuPDF SVG\u2192PNG (dpi=180) + Pillow size probe; phone-first table reformatting; fixed PDF metadata dates for reproducibility eval",
+  "svg_conversion_method": "pymupdf.open(svg).get_pixmap(dpi=180).save(png)",
+  "page_size": "6in x 9in portrait (432pt x 648pt)",
+  "fixed_pdf_metadata_date": "D:20260905210000-05'00'",
+  "historical_draft_1_10_pdf_sha256": {
+    "Bill-A-LOU-004-Public-Review-Draft-1.10.pdf": "A392AEFD7385DB434C6076FDC2553B25817B132A02885791E878CFFC06B3BD02",
+    "Bill-A-LOU-004-Review-Summary.pdf": "FE50EF5EC2046267800D1A5D8A5438C4234CBC0490629C6DD09CF8554A611CA9"
+  },
+  "artifacts": [
+    {
+      "filename": "Bill-A-LOU-004-Public-Review-Draft-1.12.pdf",
+      "path": "Engineering-Office/publication/bill-a/public-review/pdf/Bill-A-LOU-004-Public-Review-Draft-1.12.pdf",
+      "pdf_sha256": "702BB99EEC20D70DB6C534BEF4F3CBADE0378D6FCFD6140A1247E68232032ADC",
+      "file_size_bytes": 277550,
+      "page_count": 139,
+      "page_width_pt": 432.0,
+      "page_height_pt": 648.0,
+      "parse_stats": {
+        "wide_tables_reformatted": 14,
+        "compact_tables_kept": 0,
+        "images_embedded": 0,
+        "images_skipped_intentional_gap": 0
+      },
+      "heading_count": 98,
+      "diagrams": [],
+      "source_markdown": "Engineering-Office/definition/LOU-004-Bill-A-Comprehensive-Kansas-Tax-System-Replacement.md",
+      "source_git_sha": "e3151e5ac3f8cdb6fc25ac6b36bf418072f723fb",
+      "kind": "lou"
+    },
+    {
+      "filename": "Bill-A-Engineering-a-New-Kansas-Tax-System-White-Paper-Draft-1.12.pdf",
+      "path": "Engineering-Office/publication/bill-a/public-review/pdf/Bill-A-Engineering-a-New-Kansas-Tax-System-White-Paper-Draft-1.12.pdf",
+      "pdf_sha256": "857838630AA07CCB9A1E2571DFDF961C91B3E321349C66CEB053910A942D8EB2",
+      "file_size_bytes": 1849279,
+      "page_count": 50,
+      "page_width_pt": 432.0,
+      "page_height_pt": 648.0,
+      "parse_stats": {
+        "wide_tables_reformatted": 0,
+        "compact_tables_kept": 0,
+        "images_embedded": 9,
+        "images_skipped_intentional_gap": 0
+      },
+      "heading_count": 67,
+      "diagrams": [
+        {
+          "alt": "WP-DIAG-010 \u2014 Durable invariants and PDCA",
+          "source": "X:\\GitHub\\Constitutional-Engineering\\Engineering-Office\\publication\\bill-a\\public-review\\renderer\\_build\\ce177-diagram-cache\\WP-DIAG-010-PDCA-Invariants-dpi180.png",
+          "embed_width_pt": 352.8,
+          "embed_height_pt": 250.88,
+          "pixel_w": 2250,
+          "pixel_h": 1600,
+          "conversion": "PyMuPDF pixmap dpi=180 \u2192 PNG"
+        },
+        {
+          "alt": "WP-DIAG-006 \u2014 Property-Tax Elimination",
+          "source": "X:\\GitHub\\Constitutional-Engineering\\Engineering-Office\\publication\\bill-a\\public-review\\renderer\\_build\\ce177-diagram-cache\\WP-DIAG-006-Property-Tax-Elimination-dpi180.png",
+          "embed_width_pt": 352.8,
+          "embed_height_pt": 256.58,
+          "pixel_w": 2200,
+          "pixel_h": 1600,
+          "conversion": "PyMuPDF pixmap dpi=180 \u2192 PNG"
+        },
+        {
+          "alt": "WP-DIAG-003 \u2014 ALL-IN / ALL-OUT current status",
+          "source": "X:\\GitHub\\Constitutional-Engineering\\Engineering-Office\\publication\\bill-a\\public-review\\renderer\\_build\\ce177-diagram-cache\\WP-DIAG-003-All-In-All-Out-dpi180.png",
+          "embed_width_pt": 352.8,
+          "embed_height_pt": 276.1,
+          "pixel_w": 2300,
+          "pixel_h": 1800,
+          "conversion": "PyMuPDF pixmap dpi=180 \u2192 PNG"
+        },
+        {
+          "alt": "WP-DIAG-004 \u2014 TRR / ARR",
+          "source": "X:\\GitHub\\Constitutional-Engineering\\Engineering-Office\\publication\\bill-a\\public-review\\renderer\\_build\\ce177-diagram-cache\\WP-DIAG-004-TRR-ARR-dpi180.png",
+          "embed_width_pt": 352.8,
+          "embed_height_pt": 219.52,
+          "pixel_w": 2250,
+          "pixel_h": 1400,
+          "conversion": "PyMuPDF pixmap dpi=180 \u2192 PNG"
+        },
+        {
+          "alt": "WP-DIAG-009 \u2014 Lottery Cash Waterfall",
+          "source": "X:\\GitHub\\Constitutional-Engineering\\Engineering-Office\\publication\\bill-a\\public-review\\renderer\\_build\\ce177-diagram-cache\\WP-DIAG-009-Lottery-Cash-Waterfall-dpi180.png",
+          "embed_width_pt": 352.8,
+          "embed_height_pt": 314.45,
+          "pixel_w": 2300,
+          "pixel_h": 2050,
+          "conversion": "PyMuPDF pixmap dpi=180 \u2192 PNG"
+        },
+        {
+          "alt": "WP-DIAG-005 \u2014 Government Claim Degradation",
+          "source": "X:\\GitHub\\Constitutional-Engineering\\Engineering-Office\\publication\\bill-a\\public-review\\renderer\\_build\\ce177-diagram-cache\\WP-DIAG-005-Government-Claim-Degradation-dpi180.png",
+          "embed_width_pt": 352.8,
+          "embed_height_pt": 243.04,
+          "pixel_w": 2250,
+          "pixel_h": 1550,
+          "conversion": "PyMuPDF pixmap dpi=180 \u2192 PNG"
+        },
+        {
+          "alt": "WP-DIAG-007 \u2014 Sinking-Fund Future-State Concept",
+          "source": "X:\\GitHub\\Constitutional-Engineering\\Engineering-Office\\publication\\bill-a\\public-review\\renderer\\_build\\ce177-diagram-cache\\WP-DIAG-007-Sinking-Fund-Future-State-dpi180.png",
+          "embed_width_pt": 352.8,
+          "embed_height_pt": 227.36,
+          "pixel_w": 2250,
+          "pixel_h": 1450,
+          "conversion": "PyMuPDF pixmap dpi=180 \u2192 PNG"
+        },
+        {
+          "alt": "WP-DIAG-001 \u2014 Bill A Engineering Idea",
+          "source": "X:\\GitHub\\Constitutional-Engineering\\Engineering-Office\\publication\\bill-a\\public-review\\renderer\\_build\\ce177-diagram-cache\\WP-DIAG-001-Bill-A-Engineering-Idea-dpi180.png",
+          "embed_width_pt": 352.8,
+          "embed_height_pt": 480.2,
+          "pixel_w": 1800,
+          "pixel_h": 2450,
+          "conversion": "PyMuPDF pixmap dpi=180 \u2192 PNG"
+        },
+        {
+          "alt": "WP-DIAG-002 \u2014 Current / Transition / Future",
+          "source": "X:\\GitHub\\Constitutional-Engineering\\Engineering-Office\\publication\\bill-a\\public-review\\renderer\\_build\\ce177-diagram-cache\\WP-DIAG-002-Current-Transition-Future-dpi180.png",
+          "embed_width_pt": 352.8,
+          "embed_height_pt": 274.4,
+          "pixel_w": 2250,
+          "pixel_h": 1750,
+          "conversion": "PyMuPDF pixmap dpi=180 \u2192 PNG"
+        }
+      ],
+      "source_markdown": "Engineering-Office/publication/bill-a/public-review/white-paper/source/Bill-A-Engineering-a-New-Kansas-Tax-System-White-Paper.md",
+      "source_git_sha": "e3151e5ac3f8cdb6fc25ac6b36bf418072f723fb",
+      "kind": "whitepaper"
+    }
+  ],
+  "human_visual_acceptance": "ACCEPTED",
+  "human_visual_acceptance_cwc": "CWC-CE-178",
+  "human_visual_acceptance_statement": "I reviewed all the PDF(s). I consider them ready for public review.",
+  "public_review_package": "READY FOR SEPARATELY AUTHORIZED RELEASE",
+  "publication": "NOT PERFORMED",
+  "publication_execution": "REQUIRES SEPARATE HUMAN AUTHORIZATION",
+  "lou_004_hg_d1": "NOT HUMAN-ACCEPTED / HG-D1 NOT PASSED",
+  "git_canonicalization_cwc": "CWC-CE-178"
+}

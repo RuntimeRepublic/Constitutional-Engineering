@@ -7,15 +7,16 @@ NOT HG-D1 ACCEPTED
 NOT PROPOSED STATUTORY TEXT
 ```
 
-**Status:** CANDIDATE LANDING DOCUMENT — NOT RELEASED — NOT HUMAN-APPROVED FOR COMMENT PUBLICATION  
+**Status:** PUBLIC-REVIEW PACKAGE READY FOR SEPARATELY AUTHORIZED RELEASE — PUBLICATION NOT PERFORMED  
 **Governing LOU:** LOU-004 Draft 1.12  
 **Governing White Paper:** Draft 1.12 (explains the LOU; does not control it)  
-**Work card:** CWC-CE-175  
+**Work cards:** CWC-CE-175 (source); CWC-CE-177 (PDF render); CWC-CE-178 (Human visual acceptance + Git canonicalize)  
 **Maturity:** 19% unchanged  
 **HG-D1:** NOT PASSED  
 **Q-BILL-A-016:** C — INVARIANTS FIRST  
+**Human visual acceptance (PDFs):** ACCEPTED  
 
-This file is a later GitHub-package candidate. It is **not** published by CWC-CE-175.
+This file is a package landing document. It is **not** a publication of public review.
 
 ---
 
@@ -116,8 +117,8 @@ Especially: constitutional/legal feasibility; school finance; debt; consumption-
 | SPEC | Not authorized |
 | HG-D2 | Not passed |
 | Legislative engineering | Not authorized |
-| Git publication | Not authorized in CWC-CE-175 |
-| Phone-readable PDFs | Rendering gap — controlled remediation required |
+| Git publication / public-review release | Not performed — requires separate Human authorization |
+| Phone-readable Draft 1.12 PDFs | Technical PASS (CE-177); Human visual ACCEPTED (CE-178) |
 
 ---
 
