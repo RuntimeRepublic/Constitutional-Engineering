@@ -4,12 +4,12 @@
 **Title:** Bill A AGCL Definition Control Matrix  
 **Classification:** Non-Normative Engineering Definition Working Artifact  
 **Authority:** Constitutional Engineering Office  
-**Governing Work Card:** CWC-CE-121; CWC-CE-123; CWC-CE-124; CWC-CE-125; CWC-CE-127; CWC-CE-128; CWC-CE-130; CWC-CE-131; CWC-CE-133; CWC-CE-134; CWC-CE-136; CWC-CE-137; CWC-CE-139; CWC-CE-141; CWC-CE-142; CWC-CE-144; CWC-CE-145; CWC-CE-146; CWC-CE-148; CWC-CE-150; CWC-CE-152; CWC-CE-153; CWC-CE-154; CWC-CE-155; CWC-CE-156; CWC-CE-157; CWC-CE-158; CWC-CE-159; CWC-CE-165; CWC-CE-166; CWC-CE-167; CWC-CE-168; CWC-CE-169; CWC-CE-170; CWC-CE-171; CWC-CE-172; CWC-CE-173; CWC-CE-174; CWC-CE-175  
+**Governing Work Card:** CWC-CE-121; CWC-CE-123; CWC-CE-124; CWC-CE-125; CWC-CE-127; CWC-CE-128; CWC-CE-130; CWC-CE-131; CWC-CE-133; CWC-CE-134; CWC-CE-136; CWC-CE-137; CWC-CE-139; CWC-CE-141; CWC-CE-142; CWC-CE-144; CWC-CE-145; CWC-CE-146; CWC-CE-148; CWC-CE-150; CWC-CE-152; CWC-CE-153; CWC-CE-154; CWC-CE-155; CWC-CE-156; CWC-CE-157; CWC-CE-158; CWC-CE-159; CWC-CE-165; CWC-CE-166; CWC-CE-167; CWC-CE-168; CWC-CE-169; CWC-CE-170; CWC-CE-171; CWC-CE-172; CWC-CE-173; CWC-CE-174; CWC-CE-175; CWC-CE-181; CWC-CE-182; CWC-CE-182A  
 **Governing LOU candidate:** LOU-004 Draft 1.12 — PUBLIC REVIEW DRAFT CANDIDATE — NOT HUMAN-ACCEPTED — HG-D1 NOT PASSED  
 **Assigned Agent:** CE — Bill A Definition Engineer  
 **Status:** WORKING / CANDIDATE — NOT ACCEPTED  
-**Version:** 1.30.0  
-**Effective Date:** 2026-09-05  
+**Version:** 1.32.0  
+**Effective Date:** 2026-09-06  
 **Storage Path:** Engineering-Office/definition/working/bill-a/WD-BILL-A-004-AGCL-Definition-Control-Matrix.md  
 
 ```text
@@ -107,6 +107,10 @@ Surfaced candidate tensions after Q-BILL-A-005 Option (a):
 
 - CWC-CE-175 White Paper Draft 1.12 is **PROVISIONAL ALIGNMENT** with 00J anti-evasion of derivative-as-source: the White Paper explains LOU-004 Draft 1.12 / Q-016 C and does **not** control Human Intent. Public-review content revalidation ≠ AGCL satisfaction. PDF rendering gap is **not** AGCL satisfaction. 00D / 00I **GAP REMAINS**. **No control SATISFIED.**
 
+- CWC-CE-182 KDOR aggregated-data inquiry is **PROVISIONAL ALIGNMENT** with 00G evidence-before-claim: the cycle asks Kansas what data exist rather than asking data to prove the plan. Inquiry preparation ≠ observed transaction-band evidence. Draft 1.13 candidate notes ≠ AGCL satisfaction. **No control SATISFIED.**
+
+- CWC-CE-182A refuses to promote an absent/unaudited external simulation into Kansas fact: **PROVISIONAL ALIGNMENT** with 00G evidence-before-claim. File-not-present is **not** AGCL satisfaction. **No control SATISFIED.**
+
 Absence of a recorded conflict is **not** compatibility. No control is marked satisfied.
 
 ---
@@ -155,3 +159,5 @@ Absence of a recorded conflict is **not** compatibility. No control is marked sa
 | 1.28.0 | 2026-09-05 | CWC-CE-173: PDCA review; 00A/00I/00J QUESTION REQUIRED on parameter-change authority; unbounded PDCA POTENTIAL CONFLICT surface; Q-016 asked; no control SATISFIED. |
 | 1.29.0 | 2026-09-05 | CWC-CE-174: Q-016 = C; guardrailed PDCA PROVISIONAL ALIGNMENT 00A/00B/00F/00G/00J; 00D/00I gaps remain; firewall recorded; no control SATISFIED. |
 | 1.30.0 | 2026-09-05 | CWC-CE-175: White Paper Draft 1.12 explains LOU 1.12 / Q016 C; derivative ≠ source; 00D/00I gaps remain; no control SATISFIED. |
+| 1.31.0 | 2026-09-06 | CWC-CE-182: KDOR inquiry preparation is 00G evidence-before-claim provisional alignment; no observed bands yet; no control SATISFIED. |
+| 1.32.0 | 2026-09-06 | CWC-CE-182A: refuse simulation-as-fact; file ingest stopped; no control SATISFIED. |

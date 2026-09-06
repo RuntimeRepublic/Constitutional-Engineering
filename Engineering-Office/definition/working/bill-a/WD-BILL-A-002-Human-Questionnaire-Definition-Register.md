@@ -4,12 +4,12 @@
 **Title:** Bill A Human Questionnaire / Definition Register  
 **Classification:** Non-Normative Engineering Definition Working Artifact  
 **Authority:** Constitutional Engineering Office  
-**Governing Work Card:** CWC-CE-121; CWC-CE-123; CWC-CE-124; CWC-CE-125; CWC-CE-127; CWC-CE-128; CWC-CE-130; CWC-CE-131; CWC-CE-133; CWC-CE-134; CWC-CE-136; CWC-CE-137; CWC-CE-139; CWC-CE-141; CWC-CE-142; CWC-CE-143; CWC-CE-144; CWC-CE-145; CWC-CE-146; CWC-CE-148; CWC-CE-150; CWC-CE-152; CWC-CE-153; CWC-CE-154; CWC-CE-155; CWC-CE-156; CWC-CE-157; CWC-CE-158; CWC-CE-159; CWC-CE-165; CWC-CE-166; CWC-CE-167; CWC-CE-168; CWC-CE-169; CWC-CE-170; CWC-CE-171; CWC-CE-172; CWC-CE-173; CWC-CE-174; CWC-CE-175  
+**Governing Work Card:** CWC-CE-121; CWC-CE-123; CWC-CE-124; CWC-CE-125; CWC-CE-127; CWC-CE-128; CWC-CE-130; CWC-CE-131; CWC-CE-133; CWC-CE-134; CWC-CE-136; CWC-CE-137; CWC-CE-139; CWC-CE-141; CWC-CE-142; CWC-CE-143; CWC-CE-144; CWC-CE-145; CWC-CE-146; CWC-CE-148; CWC-CE-150; CWC-CE-152; CWC-CE-153; CWC-CE-154; CWC-CE-155; CWC-CE-156; CWC-CE-157; CWC-CE-158; CWC-CE-159; CWC-CE-165; CWC-CE-166; CWC-CE-167; CWC-CE-168; CWC-CE-169; CWC-CE-170; CWC-CE-171; CWC-CE-172; CWC-CE-173; CWC-CE-174; CWC-CE-175; CWC-CE-181; CWC-CE-182; CWC-CE-182A  
 **Governing LOU candidate:** LOU-004 Draft 1.12 — PUBLIC REVIEW DRAFT CANDIDATE — NOT HUMAN-ACCEPTED — HG-D1 NOT PASSED  
 **Assigned Agent:** CE — Bill A Definition Engineer  
 **Status:** WORKING / CANDIDATE — NOT ACCEPTED  
-**Version:** 1.31.0  
-**Effective Date:** 2026-09-05  
+**Version:** 1.33.0  
+**Effective Date:** 2026-09-06  
 **Storage Path:** Engineering-Office/definition/working/bill-a/WD-BILL-A-002-Human-Questionnaire-Definition-Register.md  
 
 ```text
@@ -519,7 +519,7 @@ Full EV-KLRS-001–015 and UNK-KLRS register: WD-BILL-A-016 §§10–11. **AI sy
 | Classification | **HUMAN INTENT**. Improvement-machine principle + Future-State clarification of option A, except I-01–I-06 remain durable. Named numbers remain initial CLASS P / CLASS HYP / CLASS T / CLASS PILOT. PDCA ≠ taxing authority. **Not** Kansas law. LOU-004 Draft **1.12**. |
 | Evidence required | Not an evidence question. Parameter change later requires evidence + applicable authority. |
 | LOU update | **Draft 1.12** (CWC-CE-174) §2.0.13–§2.0.16 / §2.27. Public Review Draft candidate. **Not** Human-accepted. |
-| Next question | **NONE this cycle.** Recommend **CWC-CE-175** White Paper PDCA reconciliation. Do not start automatically. |
+| Next question | **NONE this cycle.** CWC-CE-182A: external spreadsheet **not in workspace**; Facebook Current Engineering Status prepared. Recommend Human **manual Facebook post** of Draft 1.12 and **mail KDOR-INQ-BILL-A-001**. Do **not** start CWC-CE-183 automatically. |
 
 ---
 
@@ -573,3 +573,6 @@ Do not interrogate the Human with a large questionnaire dump unless the Human En
 | 1.28.0 | 2026-09-05 | CWC-CE-172: White Paper rewritten to Draft 1.11. Package content validation PASS. PDF rendering gap. OUTCOME A. STOP FOR HUMAN REVIEW. LOU frozen. Maturity 19% unchanged. |
 | 1.29.0 | 2026-09-05 | CWC-CE-173: PDCA / continuous-improvement Definition review. OUTCOME B. Q-BILL-A-016 ASKED / NOT ANSWERED. Public-review materiality C. LOU and White Paper not rewritten. Maturity 19% unchanged. |
 | 1.30.0 | 2026-09-05 | CWC-CE-174: Q-BILL-A-016 ANSWERED C Invariants First. LOU-004 Draft 1.12. PDCA architecture reconciled. Tests 01–33 PASS. OUTCOME A. Recommend CWC-CE-175. White Paper not rewritten. Maturity 19% unchanged. |
+| 1.31.0 | 2026-09-05 | CWC-CE-175: White Paper Draft 1.12. Package revalidation PASS. PDF rendering gap B. OUTCOME A. Recommend CWC-CE-176. Maturity 19% unchanged. |
+| 1.32.0 | 2026-09-06 | CWC-CE-182: KDOR aggregated transaction-band inquiry prepared (KDOR-INQ-BILL-A-001). Not transmitted. CWC-CE-181 public-data gap verified and late-registered. Draft 1.12 frozen. Draft 1.13 remains candidate. 5%/5% unchanged. MODEL C not calculable. No rate selected. Maturity 19% unchanged. |
+| 1.33.0 | 2026-09-06 | CWC-CE-182A: external spreadsheet not in workspace; ingest stopped; no reconstruction; Facebook Current Engineering Status; Draft 1.12 frozen; no publication blocker; OUTCOME B. Maturity 19% unchanged. |
